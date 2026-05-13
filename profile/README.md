@@ -8,7 +8,7 @@ Este curso está enfocado en la formación de programadores full stack desde 0. 
 - Git: Herramienta de control de versiones
 - NodeJs: Framework de codigo javascript
 - Reactjs: Framework de frontend
-- NPM: Gestor de paquetes
+- PNPM: Gestor de paquetes
 
 ### Extenciónes recomendadas de VSCode
 
